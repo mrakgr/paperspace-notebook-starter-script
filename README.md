@@ -12,3 +12,5 @@ pip install plyer
 Then you will be able to run the script from the command line.
 
 The script has been created for the Youtube series: https://www.youtube.com/playlist?list=PL04PGV4cTuIVGO5ImYTk9wPVmbgdYbe7J
+
+If you've found this useful please like and subscribe, it is literally my payment.
