@@ -5,7 +5,7 @@ A little script that I've been using to start free tier Paperspace notebooks.
 After you have downloaded this repo and unpacked it, first install [Python 3](https://www.python.org/downloads/) [I use Python 3 version 3.10.11] and install the missing libraries using `pip install`
 
 ```
-pip install -e /path/to/unpacked/repo/gradient-cli
+pip install gradient
 pip install plyer
 ```
 because if using pip install gradient will result in an error, a modification is included in this repository so you need to install the library by
