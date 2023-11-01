@@ -1,0 +1,3 @@
+[submodule "gradient-cli"]
+	path = gradient-cli
+	url = https://github.com/kokomif/gradient-cli.git
