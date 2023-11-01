@@ -26,10 +26,10 @@ if __name__ == "__main__":
 ```
 For api_key location
 Settings > Apikey
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/api_key.png?raw=true)
+![alt text](https://github.com/kokomif/paperspace-notebook-starter-script/blob/Mod/api_key.png?raw=true)
 
 For id location
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/id.png?raw=true)
+![alt text](https://github.com/kokomif/paperspace-notebook-starter-script/blob/Mod/id.png?raw=true)
 
 
 The script has been created for the Youtube series: https://www.youtube.com/playlist?list=PL04PGV4cTuIVGO5ImYTk9wPVmbgdYbe7J
