@@ -32,6 +32,5 @@ For id location
 ![alt text](https://github.com/kokomif/paperspace-notebook-starter-script/blob/Mod/id.png?raw=true)
 
 
-The script has been created for the Youtube series: https://www.youtube.com/playlist?list=PL04PGV4cTuIVGO5ImYTk9wPVmbgdYbe7J
-
-If you've found this useful please like and subscribe, it is literally my payment.
+If you are still confused about how to use this script you can see the YouTube video below
+https://www.youtube.com/playlist?list=PL04PGV4cTuIVGO5ImYTk9wPVmbgdYbe7J
