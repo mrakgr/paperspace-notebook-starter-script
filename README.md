@@ -1,6 +1,6 @@
 # Paperspace Notebook Starter Script 
 
-A little script that I've been using to start free tier Paperspace notebooks.
+A little script that I've been using to start "Free-GPU Series" for Paperspace notebooks.
 
 After you have downloaded this repo and unpacked it, first install [Python 3](https://www.python.org/downloads/) [I use Python 3 version 3.10.11] and install the missing libraries using `pip install`
 
