@@ -2,6 +2,7 @@ from gradient import NotebooksClient, ResourceFetchingError
 from multiprocessing import Lock, Process
 from datetime import datetime
 from plyer import notification
+import time
 
 def start_machine(lock,machine_type,id,api_key):
     notebooks_client = NotebooksClient(api_key)
@@ -18,6 +19,7 @@ def start_machine(lock,machine_type,id,api_key):
         except ResourceFetchingError as e:
             if str(e).find('out of capacity') != -1:
                 with lock: print(f"{id} - {machine_type}: {e}")
+                time.sleep(60) #added a 1-minute delay to avoid temporary API ban from paperspace
             else:
                 with lock: print(f"Aborting {id} - {machine_type}: {e}")
                 return
