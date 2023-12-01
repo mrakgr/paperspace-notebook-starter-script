@@ -35,5 +35,5 @@ For id location
 If you are still confused about how to use this script you can see the YouTube video below
 https://www.youtube.com/playlist?list=PL04PGV4cTuIVGO5ImYTk9wPVmbgdYbe7J
 
-#Update 1 December 2023
+Update 1 December 2023
 Added a 1-minute delay to avoid temporary API ban from paperspace
